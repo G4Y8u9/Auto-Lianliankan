@@ -8,6 +8,7 @@
 ## 说明:
 - 环境需求：python3.5 + opencv + windowsAPI
 - 注意：此程序中的config.py文件是此程序中用到的所有的配置信息，开源的配置信息是针对我这里面所提供的连连看.rar中的连连看游戏的。也就是说这个外挂使用的时候，要打开这个我提供的这个连连看游戏，这套配置不是破解腾讯的游戏的。想要破解腾讯QQ游戏中的连连看，只需要把配置信息修改成与QQ游戏对应的那一套就行，但这套值是多少我不提供。
+- After G4Y8u9's forking, the code is applyed to QQ Game Lianliankan, and we re-designed the delay with a factor of a random value, resulting in the operation much more like a human.
 
 ## 用法:
 - 先打开游戏，游戏运行后（游戏开始后），运行脚本。主要要确保游戏窗体不能拖拽到屏幕意外，程序无法识别屏幕以外的数据。
